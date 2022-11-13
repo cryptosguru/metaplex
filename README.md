@@ -70,23 +70,6 @@ first.
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 result.
 
-## Getting Started (Gitpod)
-
-The project can be run in Gitpod. Navigate to
-https://gitpod.io/#https://github.com/nickytonline/minty-metaplex. If you wish
-to load it in Gitpod as an external contributor, you will need to fork the
-project first, then open the fork in Gitpod, e.g.
-https://gitpod.io/#https://github.com/some_user_that_forked_the_repository/minty-metaplex.
-
-1. Gitpod will take a minute or two to load.
-1. If this is the first time loading the project in Gitpod, it will take longer
-   as all the npm packages are installing.
-1. The project wil start automatically in developer mode and the app will load
-   in the Gitpod preview window.
-
-For move information on Gitpod, check out the
-[Gitpod documentation](https://www.gitpod.io/docs/).
-
 ## Running tests
 
 The project uses [jest](https://jestjs.io). For more information on jest, see
