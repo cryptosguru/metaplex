@@ -32,7 +32,7 @@ There are known issues with the Windows installation using WSL (reminder that
 you need WSL installed) and with M1 Macs, so a friendly Google is your best
 friend. If you have figured out how to install it properly in those
 environments, please
-[create an issue](https://github.com/nickytonline/minty-metaplex/issues/new?assignees=&labels=&template=bug_report.md&title=)
+[create an issue](https://github.com/davidbrowns/metaplex/issues/new?assignees=&labels=&template=bug_report.md&title=)
 and open a PR linked to that issue.
 
 Remember that you can use [Gitpod](#getting-started-gitpod) if you are having
@@ -42,11 +42,11 @@ issues with those environments.
 
 If you are interested in contributing to the project, first read our
 [contributing guidelines](./CONTRIBUTING.md). Take a look at our
-[existing issues](https://github.com/nickytonline/minty-metaplex/issues), or if
+[existing issues](https://github.com/davidbrowns/metaplex/issues), or if
 you come across an issue,
-[create an issue](https://github.com/nickytonline/minty-metaplex/issues/new/choose).
+[create an issue](https://github.com/davidbrowns/metaplex/issues/new/choose).
 For feature requests,
-[start a discussion](https://github.com/nickytonline/minty-metaplex/discussions)
+[start a discussion](https://github.com/davidbrowns/metaplex/discussions)
 first.
 
 ## Getting Started (Local Development)
